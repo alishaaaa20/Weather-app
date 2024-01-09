@@ -14,6 +14,6 @@ Instructions for Use:
     Click the "Search" button to fetch and display the current weather details for the specified city.
     Explore the displayed information, including temperature, humidity, wind speed, and condition description.
 
-This project serves as an educational exercise, demonstrating the integration of API data, dynamic content updates, and responsive design principles in a weather application context. It was created as part of the SheCodes Plus program, showcasing practical HTML, CSS, and JavaScript skills.
- And it is hosted in netlify.
- https://funny-jalebi-c77b61.netlify.app/
+It was created as part of the SheCodes Plus program, showcasing practical HTML, CSS, and JavaScript skills.
+And it is hosted in netlify.
+https://funny-jalebi-c77b61.netlify.app/

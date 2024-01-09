@@ -7,8 +7,6 @@ Key Features:
 
     Real-time Weather Data: The application leverages the SheCodes API to fetch up-to-date weather information, ensuring accurate and reliable data for the user.
 
-    Responsive Design: The user interface is designed to be responsive, providing a seamless experience across various devices, including desktops, tablets, and smartphones.
-
     Stylish UI: The project incorporates a modern and visually appealing design using the Roboto font and a soft color palette, creating an aesthetically pleasing environment for users.
 
     DateTime Display: The current date and time are displayed at the top of the application, offering users additional context for the weather information.

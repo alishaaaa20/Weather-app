@@ -1,17 +1,6 @@
 # Weather-app
 Weather Application is a web-based tool built using HTML, CSS, and vanilla JavaScript to provide users with real-time weather information for cities around the world. The application features a simple and intuitive interface, offering essential weather details in a visually appealing manner.
 
-Key Features:
-
-    Search Functionality: Users can input the name of any city in the provided search bar to obtain the current weather details for that location. The application dynamically updates the displayed city and temperature based on user input.
-
-    Real-time Weather Data: The application leverages the SheCodes API to fetch up-to-date weather information, ensuring accurate and reliable data for the user.
-
-    Stylish UI: The project incorporates a modern and visually appealing design using the Roboto font and a soft color palette, creating an aesthetically pleasing environment for users.
-
-    DateTime Display: The current date and time are displayed at the top of the application, offering users additional context for the weather information.
-
-
 Technologies Used:
 
     HTML: Markup language for structuring the web page.

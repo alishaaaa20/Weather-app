@@ -3,10 +3,10 @@ Weather Application is a web-based tool built using HTML, CSS, and vanilla JavaS
 
 Technologies Used:
 
-    HTML: Markup language for structuring the web page.
-    CSS: Stylesheet language for enhancing the visual presentation.
-    JavaScript: Programming language for implementing dynamic and interactive features.
-    Axios: JavaScript library for making HTTP requests to the SheCodes API.
+    HTML: For structuring the web page.
+    CSS: For enhancing the visual presentation.
+    JavaScript: For implementing dynamic and interactive features.
+    Axios: For making HTTP requests to the SheCodes API.
 
 Instructions for Use:
 
